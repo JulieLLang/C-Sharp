@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\bin\Debug\Step103.exe.config
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\bin\Debug\Step103.exe
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\bin\Debug\Step103.pdb
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\obj\Debug\Step103.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\obj\Debug\Step103.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\obj\Debug\Step103.exe
+C:\Users\Student\Documents\GitHub\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Step103\Step103\obj\Debug\Step103.pdb
