@@ -8,7 +8,7 @@ namespace Step124
 {
     public class Employee : Person
     {
-        public void SayName()
+        public override void SayName()
         {
             Console.WriteLine(FirstName + " " + LastName);
         }
