@@ -1,0 +1,59 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow" style="background-color: #a8e2e2">
+        <div class="card-header text-center">
+            <h3 class="m-0">American Insurance Comany</h3>
+            <h5>Get A Quote Today</h5>
+        </div>
+        <div class="card-body width-auto">
+            @using (Html.BeginForm("Quote", "Home", FormMethod.Post))
+            {
+            <div class="row no-gutters" style="width: auto">
+                <div class="form-group col-sm-12">
+                    <label for="firstName">First Name</label>
+                    <input name="FirstName" type="text" class="form-control col-auto" placeholder="Enter First Name" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="lasttName">Last Name</label>
+                    <input name="LastName" type="text" class="form-control col-auto" placeholder="Enter Last Name" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="emailAddress">Email Address</label>
+                    <input name="EmailAddress" type="email" class="form-control col-auto" placeholder="youremail@youremail.com" />
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="datOfBirth">Date of Birth</label>
+                    <input name="DateOfBirth" type="date" class="form-control col-auto" placeholder="mm/dd/yyyy" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="carYear">Year of Vehicle</label>
+                    <input name="CarYear" type="text" class="form-control col-auto" placeholder="yyyy" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="carMake">Make of Vehicle</label>
+                    <input name="CarMake" type="text" class="form-control col-auto" placeholder="ie: Porsche" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="carModel">Model of Vehicle</label>
+                    <input name="CarModel" type="text" class="form-control col-auto" placeholder="ie: 911 Carrera" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="dui">Have you ever had a DUI?</label>
+                    <input name="Dui" type="text" class="form-control col-auto" placeholder="Yes or No" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="speedingTickets">Number of Speeding Tickets on Record</label>
+                    <input name="SpeedingTicket" type="number" class="form-control col-auto" placeholder="ie: 1" />
+                </div>
+                <div class="form-group col-sm-12">
+                    <label for="CoverageType">What Type of Coverage Do you want?</label>
+                    <input name="CoverageType" type="text" class="form-control col-auto" placeholder="Full Coverage or Liability" />
+
+                </div>
+                <br />
+            </div>
+                <button type="submit" class="btn-block btn-primary">Submit</button>
+            }
+        </div>
+    </div>
+</div>
